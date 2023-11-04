@@ -5,19 +5,25 @@ theme = 'awesome-identity'
 
 ## Profile Configurations
 [params.profile]
-  portrait = "/images/portrait-default.png"
-  firstname = "John"
-  lastname = "Smith"
-  title = "VP of Engineering / Godfather"
-  bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizations in top [**VR**](https://en.wikipedia.org/wiki/Virtual_reality) technology companies.
+  portrait = "/images/javier.jpg"
+  firstname = "Javier"
+  lastname = "Castillo"
+  title = "DEV OPS ENGiNEER · AWS · PROGRAM MANAGEMENT"
+  bio = """Current E-Learning and Digital Platforms Officer at CVC. Former Lead Web Developer at the Vice-presidency Office of the Dominican Republic and former IT Intern at Asociación Cibao Bank. 
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci ornare mollis congue, mi arcu lobortis tellus, id pulvinar ex ante eu mauris.
+Avid learner and proactive problem solver. Castillo often takes on responsibilities of every IT role which has provided a wide variety of skills. Working on a team, alone or under time constraints, any challenge is welcomed with open arms.
 
-  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+Castillo holds a Bachelor of Engineering for Software Engineering from Pontificia Universidad Católica Madre & Maestra (PUCMM) and an Associate's Degree in Computer Science from Tompkins Cortland Community College.
   """
 
+## Contacts Configurations
+[params.contacts]
+  email = "javiercastillo2708@gmail.com"
+  github = "vanorix"
+  linkedin = "jcastilloram"
+  instagram = "vanorix"
 
 ## Footer Configurations
 [params.footer]
-  copyright = "© 2019-2020 Byungjin Park. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
-  poweredBy = true
+  copyright = "© 2023 Javier Castillo."
+  poweredBy = false
